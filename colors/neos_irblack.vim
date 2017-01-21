@@ -43,7 +43,7 @@ if version >= 700 " Vim 7.x specific colors
   hi MatchParen     ctermfg=white       ctermbg=darkgray    cterm=NONE
   hi Pmenu          ctermfg=NONE        ctermbg=NONE        cterm=NONE
   hi PmenuSel       ctermfg=NONE        ctermbg=NONE        cterm=NONE
-  hi Search         ctermfg=NONE        ctermbg=NONE        cterm=underline
+  hi Search         ctermfg=16          ctermbg=190         cterm=NONE
 endif
 
 " Syntax highlighting
