@@ -35,8 +35,8 @@ hi   ErrorMsg      ctermfg=white     ctermbg=red       cterm=NONE
 hi   WarningMsg    ctermfg=white     ctermbg=red       cterm=NONE
 
 " Message displayed in lower left, such as --INSERT--
-hi ModeMsg          ctermfg=black       ctermbg=237    cterm=NONE
-:
+hi ModeMsg          ctermfg=232       ctermbg=237    cterm=NONE
+
 if version >= 700 " Vim 7.x specific colors
   hi CursorLine     ctermfg=NONE        ctermbg=NONE        cterm=BOLD
   hi CursorColumn   ctermfg=NONE        ctermbg=NONE        cterm=BOLD
