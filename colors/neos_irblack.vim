@@ -137,7 +137,7 @@ hi link javaScriptNumber      Number
 hi link csXmlTag             Keyword
 
 " VimDiff
-hi DiffChange ctermfg=NONE ctermbg=233
+hi DiffChange ctermfg=NONE ctermbg=235
 hi DiffText   ctermfg=226  ctermbg=240
-hi DiffAdd    ctermfg=40   ctermbg=233
-hi DiffDelete ctermfg=124  ctermbg=233
+hi DiffAdd    ctermfg=40   ctermbg=235
+hi DiffDelete ctermfg=124  ctermbg=235
