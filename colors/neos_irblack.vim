@@ -134,4 +134,10 @@ hi link htmlEndTag      Identifier
 hi link javaScriptNumber      Number
 
 " Special for CSharp
-hi  link csXmlTag             Keyword
+hi link csXmlTag             Keyword
+
+" VimDiff
+hi DiffChange ctermfg=NONE ctermbg=233
+hi DiffText   ctermfg=226  ctermbg=240
+hi DiffAdd    ctermfg=40   ctermbg=233
+hi DiffDelete ctermfg=124  ctermbg=233
