@@ -41,8 +41,8 @@ if version >= 700 " Vim 7.x specific colors
   hi CursorLine     ctermfg=NONE        ctermbg=NONE        cterm=BOLD
   hi CursorColumn   ctermfg=NONE        ctermbg=NONE        cterm=BOLD
   hi MatchParen     ctermfg=white       ctermbg=darkgray    cterm=NONE
-  hi Pmenu          ctermfg=NONE        ctermbg=NONE        cterm=NONE
-  hi PmenuSel       ctermfg=NONE        ctermbg=NONE        cterm=NONE
+  hi Pmenu          ctermfg=28          ctermbg=233         cterm=NONE
+  hi PmenuSel       ctermfg=green       ctermbg=236         cterm=NONE
   hi Search         ctermfg=16          ctermbg=190         cterm=NONE
 endif
 
