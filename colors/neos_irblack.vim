@@ -16,7 +16,7 @@ let colors_name = "neos_irblack"
 "hi Example         ctermfg=NONE        ctermbg=NONE        cterm=NONE
 
 " General colors
-hi   Normal        ctermfg=250       ctermbg=NONE      cterm=NONE
+hi   Normal        ctermfg=245       ctermbg=NONE      cterm=NONE
 hi   NonText       ctermfg=black     ctermbg=NONE      cterm=NONE
 hi   Cursor        ctermfg=black     ctermbg=white     cterm=reverse
 hi   LineNr        ctermfg=darkgray  ctermbg=NONE      cterm=NONE
@@ -25,7 +25,7 @@ hi   StatusLine    ctermfg=white     ctermbg=darkgray  cterm=NONE
 hi   StatusLineNC  ctermfg=blue      ctermbg=darkgray  cterm=NONE
 hi   Folded        ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   Title         ctermfg=NONE      ctermbg=NONE      cterm=NONE
-hi   Visual        ctermfg=NONE      ctermbg=235       cterm=NONE
+hi   Visual        ctermfg=NONE      ctermbg=233       cterm=NONE
 hi   SpecialKey    ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   WildMenu      ctermfg=black     ctermbg=yellow    cterm=NONE
 hi   PmenuSbar     ctermfg=black     ctermbg=white     cterm=NONE
@@ -47,21 +47,21 @@ if version >= 700 " Vim 7.x specific colors
 endif
 
 " Syntax highlighting
-hi  Comment      ctermfg=darkgray   ctermbg=NONE  cterm=NONE
-hi  String       ctermfg=115        ctermbg=NONE  cterm=NONE
-hi  Number       ctermfg=190        ctermbg=NONE  cterm=NONE
+hi  Comment      ctermfg=237        ctermbg=NONE  cterm=NONE
+hi  String       ctermfg=238        ctermbg=NONE  cterm=NONE
+hi  Number       ctermfg=130        ctermbg=NONE  cterm=NONE
 hi  Keyword      ctermfg=109        ctermbg=NONE  cterm=NONE
 hi  PreProc      ctermfg=blue       ctermbg=NONE  cterm=NONE
-hi  Conditional  ctermfg=153        ctermbg=NONE  cterm=NONE
+hi  Conditional  ctermfg=23         ctermbg=NONE  cterm=NONE
 hi  Todo         ctermfg=red        ctermbg=NONE  cterm=NONE
 hi  Constant     ctermfg=81         ctermbg=NONE  cterm=NONE
 hi  Identifier   ctermfg=94         ctermbg=NONE  cterm=NONE
 hi  Function     ctermfg=blue       ctermbg=NONE  cterm=NONE
-hi  Type         ctermfg=103        ctermbg=NONE  cterm=NONE
-hi  Statement    ctermfg=lightblue  ctermbg=NONE  cterm=NONE
-hi  Special      ctermfg=white      ctermbg=NONE  cterm=NONE
+hi  Type         ctermfg=blue        ctermbg=NONE  cterm=NONE
+hi  Statement    ctermfg=24         ctermbg=NONE  cterm=NONE
+hi  Special      ctermfg=81         ctermbg=NONE  cterm=NONE
 hi  Delimiter    ctermfg=cyan       ctermbg=NONE  cterm=NONE
-hi  Operator     ctermfg=155        ctermbg=NONE  cterm=NONE
+hi  Operator     ctermfg=178        ctermbg=NONE  cterm=NONE
 
 hi link Character       Constant
 hi link Boolean         Constant
