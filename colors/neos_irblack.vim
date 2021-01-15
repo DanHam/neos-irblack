@@ -47,19 +47,19 @@ if version >= 700 " Vim 7.x specific colors
 endif
 
 " Syntax highlighting
-hi  Comment      ctermfg=237        ctermbg=NONE  cterm=NONE
-hi  String       ctermfg=238        ctermbg=NONE  cterm=NONE
+hi  Comment      ctermfg=241        ctermbg=NONE  cterm=NONE
+hi  String       ctermfg=29         ctermbg=NONE  cterm=NONE
 hi  Number       ctermfg=130        ctermbg=NONE  cterm=NONE
 hi  Keyword      ctermfg=109        ctermbg=NONE  cterm=NONE
 hi  PreProc      ctermfg=blue       ctermbg=NONE  cterm=NONE
-hi  Conditional  ctermfg=23         ctermbg=NONE  cterm=NONE
+hi  Conditional  ctermfg=35         ctermbg=NONE  cterm=NONE
 hi  Todo         ctermfg=red        ctermbg=NONE  cterm=NONE
 hi  Constant     ctermfg=81         ctermbg=NONE  cterm=NONE
 hi  Identifier   ctermfg=94         ctermbg=NONE  cterm=NONE
 hi  Function     ctermfg=blue       ctermbg=NONE  cterm=NONE
-hi  Type         ctermfg=blue        ctermbg=NONE  cterm=NONE
-hi  Statement    ctermfg=24         ctermbg=NONE  cterm=NONE
-hi  Special      ctermfg=81         ctermbg=NONE  cterm=NONE
+hi  Type         ctermfg=blue       ctermbg=NONE  cterm=NONE
+hi  Statement    ctermfg=32         ctermbg=NONE  cterm=NONE
+hi  Special      ctermfg=39         ctermbg=NONE  cterm=NONE
 hi  Delimiter    ctermfg=cyan       ctermbg=NONE  cterm=NONE
 hi  Operator     ctermfg=178        ctermbg=NONE  cterm=NONE
 
