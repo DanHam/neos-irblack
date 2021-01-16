@@ -24,6 +24,7 @@ hi   LineNr        ctermfg=darkgray  ctermbg=NONE      cterm=NONE
 hi   NonText       ctermfg=black     ctermbg=NONE      cterm=NONE
 hi   Normal        ctermfg=245       ctermbg=NONE      cterm=NONE
 hi   PmenuSbar     ctermfg=black     ctermbg=white     cterm=NONE
+hi   SignColumn    ctermfg=red       ctermbg=NONE      cterm=NONE
 hi   SpecialKey    ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   StatusLine    ctermfg=white     ctermbg=darkgray  cterm=NONE
 hi   StatusLineNC  ctermfg=blue      ctermbg=darkgray  cterm=NONE
@@ -32,7 +33,7 @@ hi   VertSplit     ctermfg=darkgray  ctermbg=darkgray  cterm=NONE
 hi   Visual        ctermfg=NONE      ctermbg=233       cterm=NONE
 hi   WarningMsg    ctermfg=white     ctermbg=red       cterm=NONE
 hi   WildMenu      ctermfg=black     ctermbg=yellow    cterm=NONE
-hi  Ignore        ctermfg=NONE      ctermbg=NONE      cterm=NONE
+hi   Ignore        ctermfg=NONE      ctermbg=NONE      cterm=NONE
 
 " Message displayed in lower left, such as --INSERT--
 hi ModeMsg          ctermfg=232       ctermbg=237    cterm=NONE
