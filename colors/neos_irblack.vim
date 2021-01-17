@@ -43,7 +43,8 @@ if version >= 700 " Vim 7.x specific colors
   hi MatchParen     ctermfg=white       ctermbg=darkgray    cterm=NONE
   hi Pmenu          ctermfg=28          ctermbg=NONE        cterm=NONE
   hi PmenuSel       ctermfg=green       ctermbg=NONE        cterm=NONE
-  hi PmenuSbar      ctermfg=black       ctermbg=234         cterm=NONE
+  hi PmenuSbar      ctermfg=NONE        ctermbg=234         cterm=NONE
+  hi PmenuThumb     ctermfg=NONE        ctermbg=237         cterm=NONE
   hi Search         ctermfg=16          ctermbg=190         cterm=NONE
 endif
 
