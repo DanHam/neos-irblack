@@ -23,7 +23,6 @@ hi   Folded        ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   LineNr        ctermfg=darkgray  ctermbg=NONE      cterm=NONE
 hi   NonText       ctermfg=black     ctermbg=NONE      cterm=NONE
 hi   Normal        ctermfg=245       ctermbg=NONE      cterm=NONE
-hi   PmenuSbar     ctermfg=black     ctermbg=white     cterm=NONE
 hi   SignColumn    ctermfg=red       ctermbg=NONE      cterm=NONE
 hi   SpecialKey    ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   StatusLine    ctermfg=white     ctermbg=darkgray  cterm=NONE
@@ -42,8 +41,9 @@ if version >= 700 " Vim 7.x specific colors
   hi CursorColumn   ctermfg=NONE        ctermbg=NONE        cterm=BOLD
   hi CursorLine     ctermfg=NONE        ctermbg=NONE        cterm=BOLD
   hi MatchParen     ctermfg=white       ctermbg=darkgray    cterm=NONE
-  hi Pmenu          ctermfg=28          ctermbg=233         cterm=NONE
-  hi PmenuSel       ctermfg=green       ctermbg=236         cterm=NONE
+  hi Pmenu          ctermfg=28          ctermbg=NONE        cterm=NONE
+  hi PmenuSel       ctermfg=green       ctermbg=NONE        cterm=NONE
+  hi PmenuSbar      ctermfg=black       ctermbg=234         cterm=NONE
   hi Search         ctermfg=16          ctermbg=190         cterm=NONE
 endif
 
