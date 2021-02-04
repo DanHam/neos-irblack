@@ -22,7 +22,7 @@ hi   ErrorMsg      ctermfg=white     ctermbg=red       cterm=NONE
 hi   Folded        ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   LineNr        ctermfg=darkgray  ctermbg=NONE      cterm=NONE
 hi   NonText       ctermfg=black     ctermbg=NONE      cterm=NONE
-hi   Normal        ctermfg=245       ctermbg=NONE      cterm=NONE
+hi   Normal        ctermfg=247       ctermbg=NONE      cterm=NONE
 hi   SignColumn    ctermfg=red       ctermbg=NONE      cterm=NONE
 hi   SpecialKey    ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   StatusLine    ctermfg=white     ctermbg=darkgray  cterm=NONE
