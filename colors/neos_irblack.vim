@@ -29,7 +29,7 @@ hi   StatusLine    ctermfg=white     ctermbg=darkgray  cterm=NONE
 hi   StatusLineNC  ctermfg=blue      ctermbg=darkgray  cterm=NONE
 hi   Title         ctermfg=NONE      ctermbg=NONE      cterm=NONE
 hi   VertSplit     ctermfg=darkgray  ctermbg=darkgray  cterm=NONE
-hi   Visual        ctermfg=NONE      ctermbg=233       cterm=NONE
+hi   Visual        ctermfg=NONE      ctermbg=235       cterm=NONE
 hi   WarningMsg    ctermfg=white     ctermbg=red       cterm=NONE
 hi   WildMenu      ctermfg=black     ctermbg=yellow    cterm=NONE
 hi   Ignore        ctermfg=NONE      ctermbg=NONE      cterm=NONE
